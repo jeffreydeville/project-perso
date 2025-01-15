@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
 # Projet League of Legends - Carte des Personnages
 
 Ce projet est un projet personnel qui utilise principalement **React**, **HTML**, **CSS**, et **Sass**. Il met en application plusieurs concepts que j'ai appris. Le code est organisé de manière à être le plus lisible possible et facilement modifiable. Le thème du projet est centré autour des **personnages de League of Legends**, et il est interactif. En lançant le projet, vous pouvez facilement interagir avec le code.
@@ -33,4 +23,3 @@ Pour l'instant, le projet présente des **cartes créées manuellement** pour ch
 1. Clonez ce dépôt sur votre machine locale :
    ```bash
    git clone https://github.com/votre-utilisateur/league-of-legends-cards.git
->>>>>>> abf8f60a679790ed740bfdc447d3736287cdf055
