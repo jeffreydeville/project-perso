@@ -1,0 +1,39 @@
+@charset "UTF-8";
+h1 {
+  color: rgb(202, 221, 26);
+}
+
+.customShadow {
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.8);
+}
+
+.textShadow {
+  text-shadow: 2px 2px 4px rgb(12, 12, 6); /* Ombre noire pour créer l'effet de contour */
+}
+
+.textShadow2 {
+  text-shadow: 0px 0px 5px rgb(12, 12, 6);
+}
+
+.ShadowRed {
+  box-shadow: 10px 10px 20px rgb(165, 19, 19);
+}
+
+.ShadowBlue {
+  box-shadow: 10px 10px 20px rgb(36, 75, 182);
+}
+
+.bordureFace {
+  border: 6px solid rgb(169, 169, 169);
+  -o-border-image: url("/texture metal.jpg") 2 round;
+     border-image: url("/texture metal.jpg") 2 round;
+  image-rendering: pixelated;
+}
+
+.background-section {
+  background-image: url("/image-13.jpg");
+  background-size: cover;
+  background-position: center;
+  min-width: 100%;
+  min-width: 100%;
+}/*# sourceMappingURL=custom.css.map */
